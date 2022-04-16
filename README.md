@@ -7,6 +7,6 @@ It's a simple CLICKER with prerecorded coordinates to click. It worked for me wh
 
 How to Abuse DarkMatter on JavaRush?
 
-Go to JavaRush. On the left panel click "Surveys" and then click "Meeting with types, keyboard input" or smth... Scroll the page up to max, launch script, type how many dark matter you want and then you'll have 15 seconds to open browser on the front. Script will start iterations until it'll get your amount of coins. TO STOP IT, simply press ctrl+alt+del, otherwise you're doomed.
+Go to JavaRush. On the left panel click "Surveys" and then click "Meeting with types, keyboard input" or smth... Scroll the page up to max, launch script, type how many dark matter you want, click ENTER and then you'll have 15 seconds to open browser on the front. Script will start iterations until it'll get your amount of coins. TO STOP IT, simply press ctrl+alt+del, otherwise you're doomed.
 
-You can rework it if you passed other (more valueble) test, or have some other ideas to improve it! For example I wanted to add text recognition to find right answers, or make such clickers for other tests.
+You can rework it if it doesn't work for you or you passed other (more valueble) test, or have some other ideas to improve it! For example I wanted to add text recognition to find right answers, or make such clickers for other tests.
